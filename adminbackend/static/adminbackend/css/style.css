@@ -507,3 +507,21 @@ table {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }
+
+
+canvas {
+    position: absolute;
+}
+
+.info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px 15px;
+    color: #eee;
+    font-size: 13px;
+    background-color: rgba(0, 0, 0, .5);
+}
+body > div.dg.ac{
+	display: none;
+}
