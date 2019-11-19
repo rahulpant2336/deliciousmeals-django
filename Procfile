@@ -1,0 +1,1 @@
+web: gunicorn adminbackend.wsgi --log-file -
